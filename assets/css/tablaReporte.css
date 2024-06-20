@@ -1,0 +1,24 @@
+
+
+.one{
+    margin-top: 20px;
+    border-radius: 12px;
+    
+}
+
+.two{
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 200px;
+    background: white;
+  
+}
+
+.where{
+    height: 50px;
+   
+    margin-top: 2px;
+    border: 5px solid rgba(255,255,255,0.3);
+    
+
+    }

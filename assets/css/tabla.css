@@ -1,0 +1,25 @@
+.center{
+    margin-top: 50px;
+    text-align: center;
+    margin-left: 120px;
+    
+
+}
+
+
+.boton{
+    
+    margin-top: 12px;
+    border-top-left-radius: 10px 10rem;
+    background: rgb(176, 210, 231);
+    font-size: 15px;
+    border-color: black;
+}
+
+.one{
+    margin-top: 20px;
+    background: lightskyblue;
+    border-color: #0d6efd;
+    
+}
+
